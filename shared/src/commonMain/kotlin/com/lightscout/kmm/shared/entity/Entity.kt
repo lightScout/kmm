@@ -1,4 +1,4 @@
-package com.lightscout.kmm.entity
+package com.lightscout.kmm.shared.entity
 
 import kotlinx.datetime.TimeZone
 import kotlinx.datetime.toInstant

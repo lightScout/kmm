@@ -71,3 +71,9 @@ android {
         minSdk = 24
     }
 }
+
+sqldelight {
+    database("AppDatabase") {
+        packageName = "com.lightscout.kmm.shared.cache"
+    }
+}
